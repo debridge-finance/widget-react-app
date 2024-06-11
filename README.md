@@ -1,1 +1,1 @@
-# widget-react-app
+# React + deBridge widget
